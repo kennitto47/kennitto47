@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaining more experience and knowledge
 - 🌱 I’m currently learning HTML,CSS and JAVA
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
+- 📫 How to reach me ...Email @kennedymuiruri@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love computers,coding as my gilfriend
 
