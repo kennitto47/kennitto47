@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML,CSS and JAVA
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...Email @kennedymuiruri@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...Kennitto
 - ⚡ Fun fact: I love computers,coding as my gilfriend
 
 <!---
